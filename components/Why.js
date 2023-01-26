@@ -12,25 +12,26 @@ const Values = () => {
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-16 py-20">
         <div className="flex flex-col gap-5 items-center">
           <img src="/assets/v1.svg" alt="v1" />
-          <p className="text-2xl font-semibold">Speaking clubs</p>
+          <p className="text-2xl font-semibold">Free Consultation</p>
           <p className="text-gray-500 text-center">
-            In our school you will practice <br /> your speaking skills and just get <br /> a
-            lot of positive emotions!
+            We will help you plan out the design you want on your shirt,cup,car
+            and other.
           </p>
         </div>
         <div className="flex flex-col gap-5 items-center">
           <img src="/assets/v2.svg" alt="v1" />
           <p className="text-2xl font-semibold">Quality control</p>
           <p className="text-gray-500 text-center">
-            In our school you will practice <br /> your speaking skills and just get <br /> a
-            lot of positive emotions!
+            We will make sure the quality of  <br /> our print  satisfy
+             you .
           </p>
-        </div> <div className="flex flex-col gap-5 items-center">
+        </div>{" "}
+        <div className="flex flex-col gap-5 items-center">
           <img src="/assets/v3.svg" alt="v1" />
           <p className="text-2xl font-semibold">Progress analysis</p>
           <p className="text-gray-500 text-center">
-            In our school you will practice <br /> your speaking skills and just get <br /> a
-            lot of positive emotions!
+            We collect data from our previous clients <br /> and use that 
+            data  <br /> to improve our services to you!
           </p>
         </div>
       </div>
