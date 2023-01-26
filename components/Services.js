@@ -38,8 +38,10 @@ const Teacher = () => {
             </p>
 
             <div className="mt-4">
+              <a href=" https://wa.me/658808362">
               <a className="inline-flex items-center mt-4 font-semibold text-blue-600 lg:mb-0 hover:text-neutral-600">
                 Contact Us Today
+                </a>
               </a>
             </div>
           </div>
@@ -74,7 +76,9 @@ const Teacher = () => {
             <div className="mt-4">
               <a className="inline-flex items-center mt-4 font-semibold text-blue-600 lg:mb-0 hover:text-neutral-600">
                 {" "}
+               <a href=" https://wa.me/658808362">
                 Contact Us Today{" "}
+                </a>
               </a>
             </div>
           </div>
@@ -106,7 +110,9 @@ const Teacher = () => {
 
             <div className="mt-4">
               <a className="inline-flex items-center mt-4 font-semibold text-blue-600 lg:mb-0 hover:text-neutral-600">
+                 <a href=" https://wa.me/658808362">
                 Contact Us Today
+                </a>
               </a>
             </div>
           </div>
